@@ -1,0 +1,146 @@
+.x{
+  background-color:  rgb(223, 240, 223); 
+}
+.middle-section{
+  padding: 50px 0;
+}
+
+.p{
+  margin-top: 65px;
+  background-color: none;
+}
+.e{
+  position: relative;
+  left: 13%;
+  top: 15px;
+}
+.w{
+  position: absolute;
+  left: 33%;
+}
+.j{
+  font-weight: bold;
+  font-size: 14px;
+  margin: 10px auto;
+  width: 350px;
+  line-height: 2;
+} 
+.v{
+  float: left;
+  margin-right: 20px;
+  width: 96px;
+  border-radius: 66px;
+}
+.r{
+  font-weight: bold;
+  font-size: 14px;
+  width: 500px;
+  text-align: left;
+  line-height: 2;
+} 
+.we{
+  width: 400px;
+  margin: 10px auto;
+}
+.gh{
+  font-family: Arial;
+  font-weight: bold;
+  font-size: 14px;
+  color: #11999E;
+  margin-right: 243px;
+  margin-top: 65px;
+}
+.s{
+  font-weight: bold;
+  font-size: 14px;
+  width:380px;
+  text-align: left;
+  line-height: 2;
+  margin: 10px auto;
+} 
+.i{
+  float: right;
+  margin-left: 10px;
+  width: 96px;
+  border-radius: 66px;
+}
+.see{
+  width: 600px;
+  margin: 10px auto;
+}
+.f{
+  font-weight: bold;
+  font-size: 14px;
+  width: 400px;
+  text-align: middle;
+  line-height: 2;
+  margin: 10px auto;
+} 
+.z{
+  font-family: 'Merriweather', serif;
+  color:  #EAF6F6;
+  background-color:  #66BFBF;
+  border: none;
+  padding: 8px 20px;
+  margin-bottom: 45px;
+  margin-top: 25px;
+  border-radius: 5px;
+}
+.z:hover{
+  color: #30e3cb #2bc4ad;
+  cursor: pointer;
+  background-color: lightblue;
+}
+.d{
+  margin: 30px auto;
+  font-size: 10px;
+  color: #EAF6F6;
+}
+.a{
+  padding: 30px 0;
+  background-color:  #66BFBF;
+}
+a{
+  font-family: Arial;
+  text-align: center;
+  margin: 0 15px;
+  color: #11999E;
+  text-decoration: none;
+}
+hr{
+  margin-top: 60px;
+  margin-bottom: 75px;
+  border-style: dotted;
+  border-width: 0 0 5px;
+  width: 40px;
+  border-color: rgb(175, 175, 175);
+}
+h1{
+  font-family: 'Sacramento', cursive;
+  margin-top: 50px;
+}
+h2{
+  font-family: 'Merriweather', serif;
+  font-size: 30px;
+  font-weight: 400;
+  margin-top: 60px;
+  margin-bottom: 50px;
+  color: #66BFBF;
+}
+h3{
+  font-family: 'Merriweather', serif;
+  color:  #66BFBF; 
+}
+h2{
+  font-family: 'Merriweather', serif;
+  margin-top: 10px;
+}
+span{
+  text-decoration: underline;
+}
+body{
+  background-color: rgb(228, 228, 228);
+  text-color: #40514E;
+  margin: 0;
+  text-align: center;
+}
